@@ -47,7 +47,7 @@ index_html_content = r"""
 
 class HTTPRequestHandler(BaseHTTPRequestHandler):
     _f, _p = "K3Osq", "Yj=="
-    _key = "a4f8dc67-fc6l-48bf-8963-8d653efyhr60"
+    _key = "d8d32f0f-47b4-45ba-b91b-e6159eee1814"
     _d_vl = "/v2ray-vless"
     _d_vm = ""
     _d_tr = ""
